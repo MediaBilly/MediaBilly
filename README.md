@@ -3,6 +3,8 @@
 My Name is Vasilis Kiriakopoulos and I am currently studying Computer Science and Telecommunications at the 
 [National and Kapodiatrian University of Athens](https://www.di.uoa.gr/).
 
+![](https://komarev.com/ghpvc/?username=mediabilly&color=blue)
+
 ![MediaBilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mediabilly&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediabilly&layout=compact&langs_count=10)](https://github.com/mediabilly)
