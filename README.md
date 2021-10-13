@@ -5,7 +5,7 @@ My Name is Vasilis Kiriakopoulos and I am currently studying Computer Science an
 
 ![MediaBilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mediabilly&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediabilly&layout=compact)](https://github.com/mediabilly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediabilly&layout=compact&langs_count=10)](https://github.com/mediabilly)
 
 
 
