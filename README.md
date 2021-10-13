@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Name is Vasilis Kiriakopoulos and I am currently studying Computer Science and Telecommunications at the 
+[National and Kapodiatrian University of Athens](https://www.di.uoa.gr/).
+
+![MediaBilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mediabilly&show_icons=true&theme=radical)
+
+
 <!--
 **MediaBilly/MediaBilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
