@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Name is Vasilis Kiriakopoulos and I am currently studying Computer Science and Telecommunications at the 
-[National and Kapodiatrian University of Athens](https://www.di.uoa.gr/). I am also doing an internship at Intrasoft International.
+[National and Kapodiatrian University of Athens](https://www.di.uoa.gr/). I am also working as a junior backend developer at Netcompany Intrasoft!
 
 ![](https://komarev.com/ghpvc/?username=mediabilly&color=blue)
 
